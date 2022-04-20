@@ -41,13 +41,13 @@ Code.
 
 Below is a collection of plant names.
 Copy and paste the plants into your `my_list.txt` file.
-
-```text
-"Monstera Deliciosa"
+"text"
+```"Monstera Deliciosa"
 "Fiddle Leaf Fig"
 "Pilea"
 "Golden Pothos"
 "Peace Lily"
+
 ```
 
 The material we typed into the file is called the _content_. It's the thing
